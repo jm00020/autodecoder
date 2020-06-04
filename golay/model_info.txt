@@ -1,0 +1,5 @@
+model_p5.h5 - (elu*3, tanh)*5, add, linear, mean-square, adam, 2배, 1/2배, 3배, 1/3배, 4배 
+model_p5_v2.h5 - (elu*3, tanh)*5, add, linear, mean-square, adam 2배, 3배, 4배, 5배, 6배
+model_p6.h5 - (elu*3, tanh)*6, add, linear, mean-square, adam 1배, 2배, 3배, 4배, 5배, 6배
+model_p7.h5 - (elu*3, tanh)*7, add, linear, mean-square, adam 1배, 2배, 3배, 4배, 5배, 6배, 7배
+model_p8.h5 - (elu*3, tanh)*8, add, linear, mean-square, adam 1배, 2배, 3배, 4배, 5배, 6배, 7배, 8배
